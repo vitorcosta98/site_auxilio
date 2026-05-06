@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "CRAI Rio",
+    "cidade": "Rio de Janeiro",
+    "tipo": "documentacao",
+    "endereco": "Centro - RJ",
+    "maps": "https://maps.google.com/?q=CRAI+Rio",
+    "telefone": "(21) 0000-0000",
+    "descricao": "Apoio a imigrantes e refugiados"
+  },
+  {
+    "nome": "Cáritas RJ",
+    "cidade": "Rio de Janeiro",
+    "tipo": "abrigo",
+    "endereco": "Centro - RJ",
+    "maps": "https://maps.google.com/?q=Caritas+RJ",
+    "telefone": "(21) 1111-1111",
+    "descricao": "Acolhimento e assistência social"
+  }
+]
