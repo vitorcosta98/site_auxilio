@@ -18,8 +18,15 @@ function mostrarResultados(lista) {
   container.innerHTML = "";
 
   if (lista.length === 0) {
-    container.innerHTML = "<p>Nenhum local encontrado.</p>";
-    return;
+    const div = document.createElement("div");
+    div.className = "card";
+
+    div.innerHTML = `
+        <h3>Nenhum local encontrado.</h3>
+
+    `
+    container.appendChild(div)
+    
   }
 
   lista.forEach(local => {
