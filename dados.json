@@ -2,7 +2,7 @@
   {
     "nome": "CRAI Rio",
     "cidade": "Rio de Janeiro",
-    "tipo": ["documentacao", "abrigo","trabalho"],
+    "tipo": ["documentacao","servico social", "cursos"],
     "endereco": "Centro - RJ",
     "maps": "https://maps.google.com/?q=CRAI+Rio",
     "telefone": "(21) 96625-3903",
@@ -11,10 +11,20 @@
   {
     "nome": "Cáritas RJ",
     "cidade": "Rio de Janeiro",
-    "tipo": ["abrigo", "trabalho"],
-    "endereco": "Centro - RJ",
+    "tipo": ["cursos", "trabalho", "servico social"],
+    "endereco": "Maracanã - RJ",
     "maps": "https://maps.google.com/?q=Caritas+RJ",
-    "telefone": "(21) 1111-1111",
+    "telefone": "(21) 99794-5436",
     "descricao": "Acolhimento e assistência social"
+  },
+  {
+
+    "nome": "MAWON",
+    "cidade": "Rio de Janeiro",
+    "tipo": ["cursos", "trabalho", "servico social"],
+    "endereco": "Rio de Janeiro - RJ",
+    "maps": "https://maps.google.com/?q=Caritas+RJ",
+    "telefone": "(21) 99869-8270",
+    "descricao": "Assistência Social, Promoção de Ações Culturais e Capacitação Profissional"
   }
 ]
