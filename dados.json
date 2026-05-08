@@ -18,13 +18,47 @@
     "descricao": "Acolhimento e assistência social"
   },
   {
-
     "nome": "MAWON",
     "cidade": "Rio de Janeiro",
     "tipo": ["cursos", "trabalho", "servico social"],
     "endereco": "Rio de Janeiro - RJ",
-    "maps": "https://maps.google.com/?q=Caritas+RJ",
+    "maps": "",
     "telefone": "(21) 99869-8270",
     "descricao": "Assistência Social, Promoção de Ações Culturais e Capacitação Profissional"
+  },
+   {
+    "nome": "UPA BOTAFOGO",
+    "cidade": "Rio de Janeiro",
+    "tipo": ["saúde"],
+    "endereco": "Rio de Janeiro - RJ",
+    "maps": "https://www.google.com/maps/place/UPA+Botafogo+24h/@-22.9485411,-43.1904404,15.72z/data=!4m10!1m2!2m1!1supa!3m6!1s0x997fe8a8c8711f:0xe641d334552ee9b2!8m2!3d-22.9499336!4d-43.1845861!15sCgN1cGEiA_ABAVoFIgN1cGGSARJ1cmdlbnRfY2FyZV9jZW50ZXKaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnhLUmxGWGREVlNWRkpOVVZkS1NsWXdXa1ZoYlRWb1pXNUdjRTlGUlJBQuABAPoBBQi8BBAr!16s%2Fg%2F1tfcj_3j?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "telefone": "(21) 2334-4011",
+    "descricao": "Primeiros socorros e emergências."
+  },
+ {
+    "nome": "UNIDADE DE ACOLHIMENTO - ALBERGUE + TEMPO DERCY GONÇALVES",
+    "cidade": "Rio de Janeiro",
+    "tipo": ["abrigo"],
+    "endereco": "Rio de Janeiro - RJ",
+    "maps": "https://www.google.com/maps/place/R.+Haddock+Lobo,+326+-+Tijuca,+Rio+de+Janeiro+-+RJ,+20260-142/@-22.9203267,-43.2185587,18z/data=!4m17!1m10!4m9!1m3!2m2!1d-43.1883!2d-22.9072!1m3!2m2!1d-43.2166475!2d-22.9203267!3e3!3m5!1s0x997e5245d789f1:0x735217055b977cbe!8m2!3d-22.9202483!4d-43.2167364!16s%2Fg%2F11s_w2dlx1?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "telefone": "cpa5.smasdh@gmail.com",
+    "descricao": "Serviço residencial de caráter transitório."
+  },
+  {
+    "nome": "SERVIÇO JESUITA A MIGRANTES E REFUGIADOS",
+    "cidade": "Belo Horizonte",
+    "tipo": ["servico social", "trabalho"],
+    "endereco": "Belo Horizonte - MG",
+    "maps": "https://maps.app.goo.gl/pLdGQbn9R7j8LGva6",
+    "telefone": "(31) 99677-9690",
+    "descricao": "Serviço de apoio social jesuíta para auxílio a migrantes e refugiados."
+  },
+  {"nome": "CARITAS ARQUIDIOCESANA DE SÃO PAULO",
+    "cidade": "São Paulo",
+    "tipo": ["servico social", "trabalho", "cursos"],
+    "endereco": "São Paulo - SP",
+    "maps": "https://maps.app.goo.gl/pLdGQbn9R7j8LGva6",
+    "telefone": "(11) 3457-9101",
+    "descricao": "Serviço social para apoio aos migrantes e refugiados"
   }
 ]

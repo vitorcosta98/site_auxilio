@@ -6,6 +6,16 @@ async function buscarLocais() {
     const cidadeInput = document.getElementById("cidade").value.toLowerCase().trim();
     const tipoSelecionado = document.getElementById("tipo").value;
 
+    if (cidadeInput === "") {
+      const container = document.getElementById("resultados");
+      container.innerHTML = "";
+      const div = document.createElement("div");
+      div.className = "card";
+      div.innerHTML = `<p>Por favor, insira uma cidade.</p>`;
+      container.appendChild(div);
+      return;
+    }
+
     const resultados = dados.filter(item => {
       const cidadeItem = item.cidade.toLowerCase();
 
